@@ -24,8 +24,8 @@ Responsável técnico: [Rafhael Marsigli](https://github.com/rmarsigli)
 
 ### Linguagens e Tecnologias
 
-- **Backend**: Laravel
-- **Frontend**: React, TypeScript, Astro
+- **Backend**: Laravel, Go ou Rust para sistemas críticos
+- **Frontend**: React, Svelte, TypeScript, Astro
 - **Banco de Dados**: PostgreSQL
 - **DevOps**: Docker, CI/CD
 
@@ -41,9 +41,3 @@ Responsável técnico: [Rafhael Marsigli](https://github.com/rmarsigli)
 
 - Criptografia de dados sensíveis
 - Auditorias de segurança regulares
-
-### Documentação
-
-- Documentação de API em OpenAPI/Swagger
-- README em cada repositório
-- Changelogs atualizados
